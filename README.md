@@ -1,2 +1,2 @@
-# Hallmark-Daily-Reports-RPA
-Robotic process automation designed for a Hallmark Gold Crown Independent Retailer which runs all of the daily reports and combines them into a single PDF file that is sent via e-mail.
+# Hallmark Assistant
+HallmarkAssistant is a Robotic Process Automation (RPA) solution designed to streamline daily operations by automatically generating all required reports, compiling them into a single, organized PDF, and delivering it via email each day—ensuring consistent, accurate reporting with zero manual effort.
